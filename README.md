@@ -2,7 +2,7 @@
 Learning Python with simple examples.
 This repo contains example questions and their python codes.
 
-**Starter Exercises 
+**Starter Exercises**
 
     Hello, World!: Write a program that prints "Hello, World!" to the screen.
 
@@ -24,7 +24,7 @@ This repo contains example questions and their python codes.
 
     Guessing Game: Write a program for a simple guessing game. The program should randomly choose a number between 1 and 100, and then ask the user to guess the number. The program should tell the user if their guess is too high, too low, or correct.
 
-Exercise with Function
+**Exercise with Function**
 
     Multiplication Table: Write a function that takes an integer n and prints the multiplication table of that number up to 10.
 
@@ -46,7 +46,7 @@ Exercise with Function
 
     Temperature Converter: Write two functions, one that converts temperature from Celsius to Fahrenheit, and another that converts from Fahrenheit to Celsius.
 
-Exercises with Loops
+**Exercises with Loops**
 
     Sum of Numbers: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.
 
@@ -68,7 +68,7 @@ Exercises with Loops
 
     Multiples of a Number: Write a program that asks the user for two numbers n and m, and prints all multiples of n up to m.
 
-Exercises with Error catching
+**Exercises with Error catching**
 
     Divide by Zero: Write a function that divides two numbers and catches the ZeroDivisionError exception.
 
@@ -90,7 +90,7 @@ Exercises with Error catching
 
     Division: Write a function that takes two numbers and returns their division. Catch the ZeroDivisionError and TypeError exceptions.
 
-Exercises with Classes
+**Exercises with Classes**
 
     Bank Account: Create a BankAccount class with methods for deposit, withdraw, and check balance.
 
